@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+img{
+  width: 400px;
+  height: 300px;
+}
+
+header{
+  background-color: #F200FF;
+  text-align: center;
+  font-style:#C9FF00
+}
